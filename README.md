@@ -1,6 +1,6 @@
-# Wemei App
+# NextJs Boilerplate
 
-Aplicação web moderna construída com Next.js 16, React 19, TypeScript e TailwindCSS.
+Boilerplate moderno construído com Next.js 16, React 19, TypeScript e TailwindCSS.
 
 ## 🚀 Tecnologias
 
@@ -41,7 +41,7 @@ Aplicação web moderna construída com Next.js 16, React 19, TypeScript e Tailw
 ## 📁 Estrutura do Projeto
 
 ```
-wemei-app/
+nextjs-boilerplate/
 ├── app/
 │   ├── components/       # Componentes React
 │   │   ├── ui/          # Componentes shadcn/ui
@@ -73,8 +73,8 @@ wemei-app/
 1. Clone o repositório:
 
 ```bash
-git clone <repository-url>
-cd wemei-app
+git clone https://github.com/Kauan-VX/nextjs-boilerplate.git
+cd nextjs-boilerplate
 ```
 
 2. Instale as dependências:

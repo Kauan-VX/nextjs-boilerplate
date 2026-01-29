@@ -3,8 +3,9 @@ import "./globals.css";
 import LocaleLayout from "./providers/providers";
 
 export const metadata: Metadata = {
-  title: "Wemei",
-  description: "Controle total da sua MEI de serviço",
+  title: "NextJs Boilerplate",
+  description:
+    "Boilerplate moderno com Next.js, React, TypeScript e TailwindCSS",
 };
 
 export default function RootLayout({
